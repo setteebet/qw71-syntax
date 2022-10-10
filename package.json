@@ -1,0 +1,18 @@
+{
+  "name": "qw71-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "888lottovip✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"888lottovip",
+"แนวทาง ยี่กี เว็บ 24",
+"lottovip android",
+"เว็บ24",
+"พรุ่งนี้หวยออกเลขอะไรดี"
+],
+  "repository": "https://github.com/setteebet/qw71-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
